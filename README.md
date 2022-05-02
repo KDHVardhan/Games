@@ -1,2 +1,2 @@
-# GithubIntro
-A basic intro
+# Games
+Popular Games
